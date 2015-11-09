@@ -1,0 +1,35 @@
+body {
+  background-color: #CDFF00
+}
+
+h1 {
+  color: #52656B;
+}
+
+#header{
+  max-width: 100%;
+  background-color:#CDFF00;
+  color: white;
+}
+
+.button {
+  background-color: #52656B;
+}
+
+.button-group {
+  background-color: #FF3B77;
+}
+
+img {
+  border: 3px solid #FF3B77;
+}
+
+li {
+  border: 3px solid #FF3B77;
+  margin: 20px;
+}
+
+hr {
+  border: #FF3B77;
+}
+
